@@ -189,7 +189,7 @@ Whenever code is pushed:
 2. Jenkins receives trigger
 3. Pipeline starts automatically
 4. Latest code gets deployed
-
+![Webhook Status](screenshots/webhook%20foodhub.png)
 ---
 
 # Task 5: Website Modifications
