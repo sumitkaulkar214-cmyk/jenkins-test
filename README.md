@@ -101,8 +101,7 @@ Target Server (Nginx)
 
 ### Jenkins Login Page
 
-![Jenkins Login](screenshots/jenkinsloginpage.png)
-
+![Jenkins Login](screenshots/jenkins%20login%20page.png)
 ---
 
 ## Target Server
@@ -170,7 +169,7 @@ Responsibilities:
 
 ### ShopEase Pipeline Build
 
-![ShopEase Pipeline](screenshots/SHOPEASEPIPELINE.png)
+![Shopease Pipeline](screenshots/SHOPEASE%20PIPELINE.png)
 
 ---
 
@@ -247,7 +246,7 @@ http://13.127.71.170/foodhub
 
 ### Screenshot
 
-![FoodHub Website](screenshots/Foodhubwebsite.png)
+![Foodhub Website](screenshots/Foodhub%20website.png)
 
 ---
 
@@ -261,7 +260,7 @@ http://13.127.71.170/shopease
 
 ### Screenshot
 
-![ShopEase Website](screenshots/SHOPEASEWEBSITE.png)
+![Shopease Website](screenshots/SHOPEASE%20WEBSITE.png)
 
 ---
 
