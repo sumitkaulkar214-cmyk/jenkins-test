@@ -55,7 +55,7 @@ Two Linux (EC2) servers were provisioned for this project:
 Two separate Jenkins Pipeline jobs were created to handle the deployments independently.
 
 ### 1. FoodHub Pipeline
-* **Source:** https://github.com/iamtruptimane/FoodHub-Restaurant-Website.git
+* **Source:** https://github.com/sumitkaulkar214-cmyk/FoodHub-Restaurant--Website.git
 * **Pipeline Name:** `FoodHub-Pipeline`
 * **Workflow:** Clones the repository, copies files to `/var/www/html/foodhub` on the target server, and restarts Nginx.
 * **Screenshots:**
@@ -65,7 +65,7 @@ Two separate Jenkins Pipeline jobs were created to handle the deployments indepe
     ![FoodHub Console Output](screenshots/FOODhub.png)
 
 ### 2. ShopEase Pipeline
-* **Source:** https://github.com/iamtruptimane/ShopEase-Website.git
+* **Source:** https://github.com/sumitkaulkar214-cmyk/ShopEase-Website.git
 * **Pipeline Name:** `shop-pipeline`
 * **Workflow:** Clones the repository, copies files to `/var/www/html/shopease` on the target server, and restarts Nginx.
 * **Screenshot:**
